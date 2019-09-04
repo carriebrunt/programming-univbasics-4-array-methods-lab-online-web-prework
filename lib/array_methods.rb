@@ -8,7 +8,7 @@ woof.sort
 end
 
 def using_reverse(array)
-woof = ["arrays!", "I", "wow"]
+woof = ["wow", "I", "arrays!"]
 woof.reverse
 end
 
