@@ -18,7 +18,8 @@ woof.first
 end
 
 def using_last(array)
-
+woof = ["wow", "I", "arrays!"]
+woof.last
 end
 
 def using_size(array)
