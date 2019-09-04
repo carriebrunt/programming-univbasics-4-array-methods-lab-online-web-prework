@@ -3,8 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-famous_cats = ["lil' bub", "grumpy cat", "maru"]
-famous_cats.sort
+woof = ["arrays!", "am", "wow"]
+woof.sort
 end
 
 def using_reverse(array)
