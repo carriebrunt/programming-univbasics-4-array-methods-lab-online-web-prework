@@ -23,6 +23,6 @@ woof.last
 end
 
 def using_size(array)
-woof = ["wow", "I", "arrays!"]
+woof = ["wow", "I", "arrays!","cheese", "wine", "bread"]
 woof.size
 end
